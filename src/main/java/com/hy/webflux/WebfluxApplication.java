@@ -11,6 +11,7 @@ public class WebfluxApplication {
         ConfigurableApplicationContext run = SpringApplication.run(WebfluxApplication.class, args);
         System.out.println("hello git1");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 
 }
