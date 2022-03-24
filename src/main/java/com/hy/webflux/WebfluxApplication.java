@@ -10,6 +10,7 @@ public class WebfluxApplication {
     public static void main(String[] args) {
         ConfigurableApplicationContext run = SpringApplication.run(WebfluxApplication.class, args);
         System.out.println("hello git1");
+        System.out.println("hot-fix test");
     }
 
 }
