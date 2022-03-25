@@ -13,6 +13,7 @@ public class WebfluxApplication {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push master");
+        System.out.println("pull test");
     }
 
 }
